@@ -6,7 +6,7 @@
 
 </h1>
 <h3 align="center">Convert Rogue Legends tiles into timed race minigames. Convert just minigames or ALL tiles - fully configurable! (ISAB dream).</h3>
-<h1 align="center">All Minigames/Encounters are Timed Raaaces in Rogue Legends.</h1>
+<h1 align="center">All Minigames/Encounters are Timed Races in Rogue Legends.</h1>
 
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
